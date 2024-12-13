@@ -42,6 +42,6 @@ I'm a PhD student in Engineering Science at Simon Fraser University, specializin
 
 ### 🌍 Let's Connect!
 - **Email**: [eskandar@sfu.ca](mailto:eskandar@sfu.ca)
-- **LinkedIn**: [Abolfazl Eskandarpour](www.linkedin.com/in/abolfazl-eskandarpour)
+- **LinkedIn**: [Abolfazl Eskandarpour](https://www.linkedin.com/in/abolfazl-eskandarpour)
 - **Scholar**: [Google Scholar]([www.linkedin.com/in/abolfazl-eskandarpour](https://scholar.google.com/citations?user=xRRXfh0AAAAJ&hl=en))
 
