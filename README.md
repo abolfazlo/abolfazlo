@@ -27,7 +27,7 @@ I'm a PhD student in Engineering Science at Simon Fraser University, specializin
 ### 💻 Technical Expertise
 - **Programming**: Python, C++, MATLAB
 - **Robotics Frameworks**: ROS1, ROS2, Gazebo, PX4
-- **AI & ML**: PyTorch, TensorFlow, d3rlpy
+- **AI & ML**: PyTorch, TensorFlow
 - **Data Science & Optimization**: Machine Learning, Reinforcement Learning, Model Predictive Control (MPC)
 - **Electronics & Embedded Systems**: Microcontrollers, Raspberry Pi
 
