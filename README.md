@@ -41,7 +41,8 @@ I'm a PhD student in Engineering Science at Simon Fraser University, specializin
 - Developer of hands-on coding and robotics projects for students.
 
 ### 🌍 Let's Connect!
-- **Email**: [eskandar@sfu.ca](mailto:eskandar@sfu.ca)
+- **Email**: [abolfazl.eskandarpour@gmail.com](mailto:abolfazl.eskandarpour@gmail.com)
+- **Portfolio**: [abolfazlo.github.io](https://abolfazlo.github.io/)
 - **LinkedIn**: [Abolfazl Eskandarpour](https://www.linkedin.com/in/abolfazl-eskandarpour)
 - **Scholar**: [Google Scholar](https://scholar.google.com/citations?user=xRRXfh0AAAAJ&hl=en)
 
