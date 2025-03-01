@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋 I'm Abolfazl
 
 <!--
 **abolfazlo/abolfazlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there! 👋 I'm Abolfazl
+
 
 I'm a PhD student in Engineering Science at Simon Fraser University, specializing in **Robotics, Control Systems**, and **Artificial Intelligence (AI)**. My research focuses on integrating **Unmanned Aerial Manipulators (UAMs)** by combining classic control theories and modern AI-driven approaches.
 
